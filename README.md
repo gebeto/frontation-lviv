@@ -6,7 +6,7 @@
  - Взаємоповага
  - Без спаму
  - Без вакансій
- - Лайка тільки вишукана
+ - Лайка тільки вишукана ([лінк](https://ipress.ua/ljlive/matyuky_yaki_roblyat_z_tebe_ukraintsya_yak_pravylno_layatys_7348.html))
 
 
 ## Посилання
