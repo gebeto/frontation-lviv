@@ -3,9 +3,9 @@
 
 
 ## Правила (прості як дошка)
- - Взаємоповага
- - Без спаму
- - Без вакансій
+ - [Взаємоповага](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B0%D0%B3%D0%B0)
+ - Без [спаму](https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%BC)
+ - Без [вакансій](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D0%B0%D0%B4%D0%B0)
  - Лайка тільки вишукана ([лінк](https://ipress.ua/ljlive/matyuky_yaki_roblyat_z_tebe_ukraintsya_yak_pravylno_layatys_7348.html))
 
 
